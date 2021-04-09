@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/api-commons/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-commons/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway-centar/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway-centar/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq-comsumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq-comsumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq-producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq-producer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seate-account/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seate-account/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seate-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seate-order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seate-storage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/seate-storage/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-client/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

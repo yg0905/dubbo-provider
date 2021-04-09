@@ -1,0 +1,42 @@
+server:
+  port: 3002
+
+spring:
+  application:
+    name: account-consumer
+  cloud:
+    alibaba:
+      seata:
+        tx-service-group: fsp_tx_group
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+  datasource:
+    username: root
+    password: 123456
+    url: jdbc:mysql://localhost:3306/seata_account?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=UTC
+    driver-class-name: com.mysql.jdbc.Driver
+
+
+logging:
+  level:
+    io:
+      seata: info
+
+mybatis:
+  mapperLocations: classpath:mapper/*.xml
+
+
+dubbo:
+  registry:
+    #dubbo服务注册端口，注册中心服务器地址，如果地址没有端口缺省为9090，同一集群内的多个地址用逗号分隔，如：ip:port,ip:port
+    #其中前缀spring-cloud说明：挂载到 Spring Cloud注册中心
+    address: spring-cloud://127.0.0.1:8848
+    #check: false  #关闭注册中心是否启动的相关检查,false表示不检查注册中心是否启动，就不会报错
+  cloud:
+    subscribed-services: account-provider
+  consumer:
+    check: true  #关闭订阅服务是否启动的检查【检查时，没有服务提供者会报错】
+    timeout: 30000
+
+

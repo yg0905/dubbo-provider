@@ -1,0 +1,14 @@
+server:
+  port: 8092
+
+spring:
+  cloud:
+    stream:
+      rocketmq:
+        binder:
+          name-server: localhost:9876
+      bindings:
+        # 与rocketmq的自定义消费者组关联
+        input:
+          destination: VM-0-4-centos # 订阅的topic
+          group: demo-input-group

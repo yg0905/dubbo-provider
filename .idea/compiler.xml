@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api-commons" />
+        <module name="gateway-centar" />
+        <module name="rocketmq-comsumer" />
+        <module name="dubbo-provider" />
+        <module name="rocketmq-producer" />
+        <module name="seate-storage" />
+        <module name="user-client" />
+        <module name="seate-account" />
+        <module name="seate-order" />
+        <module name="dubbo-consumer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="seata-account" target="1.8" />
+      <module name="seata-account1" target="1.8" />
+      <module name="seata-order" target="1.8" />
+      <module name="seata-storage" target="1.8" />
+      <module name="seata-storage2" target="1.8" />
+      <module name="seate-order1" target="8" />
+      <module name="SpringCloud-Nacos8848" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
