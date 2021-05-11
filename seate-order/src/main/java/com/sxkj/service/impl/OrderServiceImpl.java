@@ -5,7 +5,6 @@ import com.sxkj.domain.Order;
 import com.sxkj.service.AccountService;
 import com.sxkj.service.OrderService;
 import com.sxkj.service.StorageService;
-import io.seata.spring.annotation.GlobalTransactional;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 
@@ -23,7 +22,7 @@ public class OrderServiceImpl implements OrderService {
     private StorageService storageService;
 
     @Override
-    @GlobalTransactional(name = "fsp-create-order",rollbackFor = Exception.class)
+//    @GlobalTransactional(name = "fsp-create-order",rollbackFor = Exception.class)
     public void create(Order order) {
         log.info("--------->开始新建订单");
         //1 新建订单

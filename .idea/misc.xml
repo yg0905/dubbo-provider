@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/seata-account-service2003/pom.xml" />
         <option value="$PROJECT_DIR$/seate-order/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/renren-fast/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

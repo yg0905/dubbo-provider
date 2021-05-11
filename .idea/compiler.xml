@@ -10,11 +10,13 @@
         <module name="api-commons" />
         <module name="gateway-centar" />
         <module name="rocketmq-comsumer" />
+        <module name="geteway-centar" />
         <module name="dubbo-provider" />
         <module name="rocketmq-producer" />
         <module name="seate-storage" />
         <module name="user-client" />
         <module name="seate-account" />
+        <module name="renren-fast" />
         <module name="seate-order" />
         <module name="dubbo-consumer" />
       </profile>
@@ -28,5 +30,10 @@
       <module name="seate-order1" target="8" />
       <module name="SpringCloud-Nacos8848" target="8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="renren-fast" options="" />
+    </option>
   </component>
 </project>

@@ -1,12 +1,12 @@
 package com.sxkj.controller;
 
 import cn.hutool.core.util.StrUtil;
-import com.alibaba.csp.sentinel.annotation.SentinelResource;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.sxkj.config.JsonResult;
 import com.sxkj.entities.sysMenu;
 import com.sxkj.entities.sysUser;
 import com.sxkj.service.MenuService;
+import com.sxkj.service.TestServiceImpl;
 import com.sxkj.service.UserService;
 import org.apache.commons.codec.digest.DigestUtils;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -29,18 +29,15 @@ public class UserController {
     @Autowired
     private MenuService menuService;
     @Autowired
+    private TestServiceImpl testService;
+    @Autowired
     private RedisTemplate<String,String> redisTemplate;
 
     @RequestMapping("test")
-    @SentinelResource(value = "test")
     public Object getUser(){
+        return testService.tests();
+      /*  return "123";*/
 
-        System.out.println(menuService.test());
-        redisTemplate.opsForValue().set("kk","123321");
-        System.out.println(redisTemplate.opsForValue().get("kk"));
-        List<sysUser> users = userService.users();
-        List<sysUser> collect = users.stream().limit(10).collect(Collectors.toList());
-        return JsonResult.success(0,"",collect);
     }
     @PostMapping("user")
     public JsonResult login(String username,String password){
