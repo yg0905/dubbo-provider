@@ -14,6 +14,7 @@ import java.time.LocalDateTime;
 public class ConsumerApplication {
     @StreamListener(value= Sink.INPUT)
     public void receive(String receiveMsg){
+
         System.out.println(LocalDateTime.now()+" received message:"+receiveMsg);
     }
 

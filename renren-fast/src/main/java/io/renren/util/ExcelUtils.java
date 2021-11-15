@@ -1,4 +1,4 @@
-package com.sxkj.util;
+package io.renren.util;
 
 
 import org.apache.poi.hssf.usermodel.HSSFCell;
@@ -189,7 +189,7 @@ public class ExcelUtils {
      * @throws Exception
      */
     public static Sheet importExcel(MultipartFile file) {
-        Workbook workbook;
+        Workbook workbook = null;
         String fileName = file.getOriginalFilename();
         if(fileName.endsWith(XLS)) {
             //2003
@@ -208,7 +208,7 @@ public class ExcelUtils {
                 /*throw new BusinessException("2007 初始化异常");*/
             }
         }else {
-            throw new BusinessException("文件不是Excel文件");
+            //throw new BusinessException("文件不是Excel文件");
         }
         return workbook.getSheet("Sheet1");
     }

@@ -4,690 +4,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b531878-6702-4791-98fc-f8912abafd3b" name="Default Changelist" comment="123">
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/.postcssrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/build/build.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/build/check-versions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/build/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/build/vue-loader.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/build/webpack.base.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/build/webpack.dev.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/build/webpack.prod.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/build/webpack.test.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/config/dev.env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/config/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/config/prod.env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/config/test.env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/demo-screenshot/01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/demo-screenshot/02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/assets/img/avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/assets/img/login_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/assets/scss/_base.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/assets/scss/_normalize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/assets/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/assets/scss/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/components/icon-svg/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/components/table-tree-column/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#0BB2D4/fonts/element-icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#0BB2D4/fonts/element-icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#0BB2D4/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#11C26D/fonts/element-icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#11C26D/fonts/element-icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#11C26D/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#17B3A3/fonts/element-icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#17B3A3/fonts/element-icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#17B3A3/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#3E8EF7/fonts/element-icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#3E8EF7/fonts/element-icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#3E8EF7/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#667AFA/fonts/element-icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#667AFA/fonts/element-icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#667AFA/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#757575/fonts/element-icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#757575/fonts/element-icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#757575/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#9463F7/fonts/element-icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#9463F7/fonts/element-icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#9463F7/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#997B71/fonts/element-icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#997B71/fonts/element-icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#997B71/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#EB6709/fonts/element-icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#EB6709/fonts/element-icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#EB6709/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#F74584/fonts/element-icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#F74584/fonts/element-icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#F74584/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#FCB900/fonts/element-icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#FCB900/fonts/element-icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#FCB900/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#FF4C52/fonts/element-icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#FF4C52/fonts/element-icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/element-#FF4C52/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui-theme/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/element-ui/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/iconfont.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-admin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-bianji.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-config.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-dangdifill.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-daohang.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-duanxin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-editor.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-geren.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-jiesuo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-job.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-log.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-menu.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-mudedi.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-oss.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-pinglun.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-role.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-shanchu.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-shezhi.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-shoucang.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-shoucangfill.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-shouye.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-sousuo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-sql.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-suoding.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-system.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-tixing.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-tubiao.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-xiangqu.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-xiangqufill.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-zhedie.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/icons/svg/icon-zonghe.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/mock/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/mock/modules/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/mock/modules/job-schedule.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/mock/modules/oss.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/mock/modules/sys-config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/mock/modules/sys-log.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/mock/modules/sys-menu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/mock/modules/sys-role.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/mock/modules/sys-user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/router/import-development.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/router/import-production.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/router/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/store/modules/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/store/modules/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/utils/httpRequest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/utils/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/utils/validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/common/404.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/common/home.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/common/login.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/common/theme.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/demo/echarts.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/demo/ueditor.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/main-content.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/main-navbar-update-password.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/main-navbar.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/main-sidebar-sub-menu.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/main-sidebar.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/main.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/modules/job/schedule-add-or-update.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/modules/job/schedule-log.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/modules/job/schedule.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/modules/oss/oss-config.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/modules/oss/oss-upload.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/modules/oss/oss.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/modules/sys/config-add-or-update.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/modules/sys/config.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/modules/sys/log.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/modules/sys/menu-add-or-update.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/modules/sys/menu.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/modules/sys/role-add-or-update.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/modules/sys/role.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/modules/sys/roletest.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/modules/sys/user-add-or-update.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/modules/sys/user.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/config/index-prod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/config/index-qa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/config/index-uat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/config/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/config/init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/echarts-3.8.5/echarts.common.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/mock-1.0.0-beta3/mock-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/anchor/anchor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/attachment/attachment.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/attachment/attachment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/attachment/attachment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/attachment/fileTypeImages/icon_chm.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/attachment/fileTypeImages/icon_default.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/attachment/fileTypeImages/icon_doc.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/attachment/fileTypeImages/icon_exe.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/attachment/fileTypeImages/icon_jpg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/attachment/fileTypeImages/icon_mp3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/attachment/fileTypeImages/icon_mv.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/attachment/fileTypeImages/icon_pdf.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/attachment/fileTypeImages/icon_ppt.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/attachment/fileTypeImages/icon_psd.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/attachment/fileTypeImages/icon_rar.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/attachment/fileTypeImages/icon_txt.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/attachment/fileTypeImages/icon_xls.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/attachment/images/alignicon.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/attachment/images/alignicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/attachment/images/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/attachment/images/file-icons.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/attachment/images/file-icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/attachment/images/icons.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/attachment/images/icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/attachment/images/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/attachment/images/progress.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/attachment/images/success.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/attachment/images/success.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/background/background.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/background/background.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/background/background.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/background/images/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/background/images/success.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/charts/chart.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/charts/charts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/charts/charts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/charts/charts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/charts/images/charts0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/charts/images/charts1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/charts/images/charts2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/charts/images/charts3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/charts/images/charts4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/charts/images/charts5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/emotion/emotion.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/emotion/emotion.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/emotion/emotion.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/emotion/images/0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/emotion/images/bface.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/emotion/images/cface.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/emotion/images/fface.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/emotion/images/jxface2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/emotion/images/neweditor-tab-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/emotion/images/tface.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/emotion/images/wface.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/emotion/images/yface.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/gmap/gmap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/help/help.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/help/help.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/help/help.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/image/image.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/image/image.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/image/image.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/image/images/alignicon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/image/images/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/image/images/icons.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/image/images/icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/image/images/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/image/images/progress.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/image/images/success.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/image/images/success.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/insertframe/insertframe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/internal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/link/link.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/map/map.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/map/show.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/music/music.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/music/music.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/music/music.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/preview/preview.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/scrawl/images/addimg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/scrawl/images/brush.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/scrawl/images/delimg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/scrawl/images/delimgH.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/scrawl/images/empty.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/scrawl/images/emptyH.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/scrawl/images/eraser.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/scrawl/images/redo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/scrawl/images/redoH.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/scrawl/images/scale.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/scrawl/images/scaleH.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/scrawl/images/size.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/scrawl/images/undo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/scrawl/images/undoH.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/scrawl/scrawl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/scrawl/scrawl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/scrawl/scrawl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/searchreplace/searchreplace.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/searchreplace/searchreplace.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/snapscreen/snapscreen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/spechars/spechars.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/spechars/spechars.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/table/dragicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/table/edittable.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/table/edittable.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/table/edittable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/table/edittd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/table/edittip.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/template/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/template/images/bg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/template/images/pre0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/template/images/pre1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/template/images/pre2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/template/images/pre3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/template/images/pre4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/template/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/template/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/template/template.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/video/images/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/video/images/center_focus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/video/images/file-icons.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/video/images/file-icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/video/images/icons.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/video/images/icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/video/images/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/video/images/left_focus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/video/images/none_focus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/video/images/progress.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/video/images/right_focus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/video/images/success.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/video/images/success.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/video/video.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/video/video.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/video/video.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/webapp/webapp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/wordimage/fClipboard_ueditor.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/wordimage/imageUploader.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/wordimage/tangram.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/wordimage/wordimage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/dialogs/wordimage/wordimage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/lang/en/en.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/lang/en/images/addimage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/lang/en/images/alldeletebtnhoverskin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/lang/en/images/alldeletebtnupskin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/lang/en/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/lang/en/images/button.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/lang/en/images/copy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/lang/en/images/deletedisable.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/lang/en/images/deleteenable.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/lang/en/images/listbackground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/lang/en/images/localimage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/lang/en/images/music.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/lang/en/images/rotateleftdisable.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/lang/en/images/rotateleftenable.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/lang/en/images/rotaterightdisable.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/lang/en/images/rotaterightenable.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/lang/en/images/upload.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/lang/zh-cn/images/copy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/lang/zh-cn/images/localimage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/lang/zh-cn/images/music.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/lang/zh-cn/images/upload.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/lang/zh-cn/zh-cn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/css/ueditor.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/css/ueditor.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/dialogbase.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/anchor.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/arrow_down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/arrow_up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/button-bg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/cancelbutton.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/charts.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/cursor_h.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/cursor_h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/cursor_v.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/cursor_v.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/dialog-title-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/filescan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/highlighted.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/icons-all.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/icons.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/loaderror.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/lock.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/neweditor-tab-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/pagebreak.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/scale.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/sortable.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/spacer.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/sparator_v.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/table-cell-align.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/tangram-colorpicker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/toolbar_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/unhighlighted.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/upload.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/videologo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/word.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/default/images/wordpaste.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/themes/iframe.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/SyntaxHighlighter/shCore.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/SyntaxHighlighter/shCoreDefault.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/codemirror/codemirror.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/codemirror/codemirror.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/adapters/mootools-adapter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/adapters/mootools-adapter.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/adapters/prototype-adapter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/adapters/prototype-adapter.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/adapters/standalone-framework.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/adapters/standalone-framework.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/highcharts-more.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/highcharts-more.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/highcharts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/highcharts.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/modules/annotations.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/modules/annotations.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/modules/canvas-tools.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/modules/canvas-tools.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/modules/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/modules/data.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/modules/drilldown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/modules/drilldown.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/modules/exporting.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/modules/exporting.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/modules/funnel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/modules/funnel.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/modules/heatmap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/modules/heatmap.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/modules/map.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/modules/map.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/modules/no-data-to-display.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/modules/no-data-to-display.src.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/themes/dark-blue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/themes/dark-green.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/themes/gray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/themes/grid.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/highcharts/themes/skies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/jquery-1.10.2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/jquery-1.10.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/jquery-1.10.2.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/snapscreen/UEditorSnapscreen.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/video-js/font/vjs.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/video-js/font/vjs.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/video-js/font/vjs.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/video-js/font/vjs.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/video-js/video-js.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/video-js/video-js.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/video-js/video-js.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/video-js/video.dev.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/video-js/video.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/webuploader/Uploader.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/webuploader/webuploader.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/webuploader/webuploader.custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/webuploader/webuploader.custom.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/webuploader/webuploader.flashonly.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/webuploader/webuploader.flashonly.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/webuploader/webuploader.html5only.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/webuploader/webuploader.html5only.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/webuploader/webuploader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/webuploader/webuploader.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/webuploader/webuploader.withoutimage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/webuploader/webuploader.withoutimage.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/xss.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/zeroclipboard/ZeroClipboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/zeroclipboard/ZeroClipboard.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/third-party/zeroclipboard/ZeroClipboard.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/ueditor.all.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/ueditor.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/static/plugins/ueditor-1.4.3.3/ueditor.parse.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/test/e2e/custom-assertions/elementCount.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/test/e2e/nightwatch.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/test/e2e/runner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/test/e2e/specs/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/test/unit/.eslintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/test/unit/jest.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/test/unit/setup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast-vue/test/unit/specs/HelloWorld.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/db/mysql.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/db/oracle.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/db/postgresql.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/db/sqlserver.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/RenrenApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/annotation/SysLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/aspect/RedisAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/aspect/SysLogAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/exception/RRException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/exception/RRExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/utils/ConfigConstant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/utils/Constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/utils/DateUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/utils/HttpContextUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/utils/IPUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/utils/MapUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/utils/PageUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/utils/Query.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/utils/R.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/utils/RedisKeys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/utils/RedisUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/utils/ShiroUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/utils/SpringContextUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/validator/Assert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/validator/ValidatorUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/validator/group/AddGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/validator/group/AliyunGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/validator/group/Group.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/validator/group/QcloudGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/validator/group/QiniuGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/validator/group/UpdateGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/xss/HTMLFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/xss/SQLFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/xss/XssFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/xss/XssHttpServletRequestWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/config/CorsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/config/FilterConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/config/KaptchaConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/config/MybatisPlusConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/config/RedisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/config/ShiroConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/config/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/datasource/annotation/DataSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/datasource/aspect/DataSourceAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/datasource/config/DynamicContextHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/datasource/config/DynamicDataSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/datasource/config/DynamicDataSourceConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/datasource/config/DynamicDataSourceFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/datasource/properties/DataSourceProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/datasource/properties/DynamicDataSourceProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/app/annotation/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/app/annotation/LoginUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/app/config/WebMvcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/app/controller/AppLoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/app/controller/AppRegisterController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/app/controller/AppTestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/app/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/app/entity/UserEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/app/form/LoginForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/app/form/RegisterForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/app/interceptor/AuthorizationInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/app/resolver/LoginUserHandlerMethodArgumentResolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/app/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/app/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/app/utils/JwtUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/job/config/ScheduleConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/job/controller/ScheduleJobController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/job/controller/ScheduleJobLogController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/job/dao/ScheduleJobDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/job/dao/ScheduleJobLogDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/job/entity/ScheduleJobEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/job/entity/ScheduleJobLogEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/job/service/ScheduleJobLogService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/job/service/ScheduleJobService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/job/service/impl/ScheduleJobLogServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/job/service/impl/ScheduleJobServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/job/task/ITask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/job/task/TestTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/job/utils/ScheduleJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/job/utils/ScheduleUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/oss/cloud/AliyunCloudStorageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/oss/cloud/CloudStorageConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/oss/cloud/CloudStorageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/oss/cloud/OSSFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/oss/cloud/QcloudCloudStorageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/oss/cloud/QiniuCloudStorageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/oss/controller/SysOssController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/oss/dao/SysOssDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/oss/entity/SysOssEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/oss/service/SysOssService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/oss/service/impl/SysOssServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/controller/AbstractController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/controller/SysConfigController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/controller/SysLogController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/controller/SysLoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/controller/SysMenuController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/controller/SysRoleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/controller/SysUserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/dao/SysCaptchaDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/dao/SysConfigDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/dao/SysLogDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/dao/SysMenuDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/dao/SysRoleDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/dao/SysRoleMenuDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/dao/SysUserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/dao/SysUserRoleDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/dao/SysUserTokenDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/entity/SysCaptchaEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/entity/SysConfigEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/entity/SysLogEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/entity/SysMenuEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/entity/SysRoleEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/entity/SysRoleMenuEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/entity/SysUserEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/entity/SysUserRoleEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/entity/SysUserTokenEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/form/PasswordForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/form/SysLoginForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/oauth2/OAuth2Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/oauth2/OAuth2Realm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/oauth2/OAuth2Token.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/oauth2/TokenGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/redis/SysConfigRedis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/service/ShiroService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/service/SysCaptchaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/service/SysConfigService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/service/SysLogService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/service/SysMenuService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/service/SysRoleMenuService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/service/SysRoleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/service/SysUserRoleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/service/SysUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/service/SysUserTokenService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/service/impl/ShiroServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/service/impl/SysCaptchaServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/service/impl/SysConfigServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/service/impl/SysLogServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/service/impl/SysMenuServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/service/impl/SysRoleMenuServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/service/impl/SysRoleServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/service/impl/SysUserRoleServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/service/impl/SysUserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/service/impl/SysUserTokenServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/application-dev.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/application-prod.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/application-test.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/banner.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/logback-spring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/mapper/app/UserDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/mapper/job/ScheduleJobDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/mapper/job/ScheduleJobLogDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/mapper/oss/SysOssDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/mapper/sys/SysConfigDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/mapper/sys/SysLogDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/mapper/sys/SysMenuDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/mapper/sys/SysRoleDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/mapper/sys/SysRoleMenuDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/mapper/sys/SysUserDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/mapper/sys/SysUserRoleDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/mapper/sys/SysUserTokenDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/css/print.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/css/screen.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/css/typography.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/fonts/DroidSans-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/fonts/DroidSans.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/images/collapse.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/images/expand.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/images/explorer_icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/images/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/images/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/images/logo_small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/images/pet_store_api.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/images/throbber.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/images/wordnik_api.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/index.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/lang/en.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/lang/translator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/lang/zh-cn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/lib/backbone-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/lib/es5-shim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/lib/handlebars-4.0.5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/lib/highlight.9.1.0.pack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/lib/highlight.9.1.0.pack_extended.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/lib/jquery-1.8.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/lib/jquery.ba-bbq.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/lib/jquery.slideto.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/lib/jquery.wiggle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/lib/js-yaml.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/lib/jsoneditor.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/lib/lodash.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/lib/marked.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/lib/object-assign-pollyfill.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/lib/sanitize-html.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/lib/swagger-oauth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/o2c.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/oauth2-redirect.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/swagger-ui-bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/swagger-ui-bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/swagger-ui-standalone-preset.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/swagger-ui-standalone-preset.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/swagger-ui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/swagger-ui.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/swagger-ui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/swagger-ui.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/main/resources/static/swagger/swagger-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/test/java/io/renren/DynamicDataSourceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/test/java/io/renren/JwtTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/test/java/io/renren/RedisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/renren-fast/src/test/java/io/renren/service/DynamicDataSourceTestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-client/src/main/java/com/sxkj/service/TestServiceImpl.java" afterDir="false" />
+    <list default="true" id="2b531878-6702-4791-98fc-f8912abafd3b" name="Default Changelist" comment="排序">
+      <change afterPath="$PROJECT_DIR$/user-client/src/test/java/ClassCompareUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-client/src/test/java/JsonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-client/src/test/java/ProductVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-client/src/test/java/ReflectionUtilTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-client/src/test/java/SnowflakeIdWorker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api-commons/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api-commons/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seate-account/src/main/java/com/sxkj/service/impl/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/seate-account/src/main/java/com/sxkj/service/impl/AccountServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seate-account/target/classes/com/sxkj/config/MyBatisConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/seate-account/target/classes/com/sxkj/config/MyBatisConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seate-account/target/classes/com/sxkj/service/impl/AccountServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/seate-account/target/classes/com/sxkj/service/impl/AccountServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seate-order/src/main/java/com/sxkj/config/DataSourceProxyConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seate-order/src/main/java/com/sxkj/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/seate-order/src/main/java/com/sxkj/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seate-order/target/classes/com/sxkj/service/impl/OrderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/seate-order/target/classes/com/sxkj/service/impl/OrderServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fast-vue/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast-vue/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fast-vue/src/views/demo/ueditor.vue" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/demo/ueditor.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fast-vue/src/views/modules/sys/roletest.vue" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast-vue/src/views/modules/sys/roletest.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fast/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/controller/SysMenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/controller/SysMenuController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/util/ExcelUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fast/src/main/java/io/renren/util/ExcelUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fastTest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fastTest/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fastTest/src/main/java/com/editor/netty/NettyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fastTest/src/main/java/com/editor/netty/NettyServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fastTest/src/main/java/com/editor/netty/NettyServerInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fastTest/src/main/java/com/editor/netty/NettyServerInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fastTest/src/main/java/com/editor/netty/OnStartListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fastTest/src/main/java/com/editor/netty/OnStartListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fastTest/src/main/java/com/editor/netty/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fastTest/src/main/java/com/editor/netty/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fastTest/src/main/java/com/editor/netty/SmartIotDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fastTest/src/main/java/com/editor/netty/SmartIotDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fastTest/src/main/java/com/editor/netty/SmartIotEncoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fastTest/src/main/java/com/editor/netty/SmartIotEncoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fastTest/src/main/java/com/editor/netty/SmartIotHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fastTest/src/main/java/com/editor/netty/SmartIotHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/renren-fastTest/src/main/java/com/editor/netty/SmartIotProtocol.java" beforeDir="false" afterPath="$PROJECT_DIR$/renren-fastTest/src/main/java/com/editor/netty/SmartIotProtocol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rocketmq-comsumer/src/main/java/com/sxkj/ConsumerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/rocketmq-comsumer/src/main/java/com/sxkj/ConsumerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rocketmq-comsumer/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/rocketmq-comsumer/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rocketmq-producer/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/rocketmq-producer/target/classes/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user-client/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-client/src/main/java/com/sxkj/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-client/src/main/java/com/sxkj/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-client/src/main/java/com/sxkj/mapper/MenuMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-client/src/main/java/com/sxkj/mapper/MenuMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-client/src/main/java/com/sxkj/service/impl/MenuServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-client/src/main/java/com/sxkj/service/impl/MenuServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-client/src/main/java/com/sxkj/eventBus/EventCotroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-client/src/main/java/com/sxkj/eventBus/EventCotroller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-client/src/main/java/com/sxkj/eventBus/EventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-client/src/main/java/com/sxkj/eventBus/EventHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-client/src/main/java/com/sxkj/eventBus/LoginEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-client/src/main/java/com/sxkj/eventBus/LoginEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-client/src/main/java/com/sxkj/eventBus/LoginListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-client/src/main/java/com/sxkj/eventBus/LoginListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-client/src/main/java/com/sxkj/eventBus/OrderEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-client/src/main/java/com/sxkj/eventBus/OrderEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-client/src/main/java/com/sxkj/eventBus/OrderListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-client/src/main/java/com/sxkj/eventBus/OrderListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-client/src/main/java/com/sxkj/strem/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-client/src/main/java/com/sxkj/strem/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-client/src/main/java/com/sxkj/util/EventConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-client/src/main/java/com/sxkj/util/EventConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user-client/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/user-client/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-client/src/test/java/OneWebSocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-client/src/test/java/OneWebSocket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-client/src/test/java/WebSocketConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-client/src/test/java/WebSocketConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-client/src/test/java/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-client/src/test/java/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user-client/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/user-client/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-client/target/classes/com/sxkj/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-client/target/classes/com/sxkj/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-client/target/classes/com/sxkj/mapper/MenuMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-client/target/classes/com/sxkj/mapper/MenuMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-client/target/classes/com/sxkj/service/impl/MenuServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-client/target/classes/com/sxkj/service/impl/MenuServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-client/target/test-classes/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-client/target/test-classes/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-client/target/test-classes/test2.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -714,17 +77,24 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/user-client/src/test/java/No2_Stack_BasicCalculator.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/user-client/src/main/java/com/sxkj/eventBus/LoginEvent.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/seate-account/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/annotation/SysLog.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/user-client/src/main/java/com/sxkj/UserClientApplication.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/datasource/annotation/DataSource.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/user-client/src/main/java/com/sxkj/eventBus/EventCotroller.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/user-client/src/main/java/com/sxkj/eventBus/EventHandler.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../maven/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/web/multipart/MultipartFile.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/user-client/src/main/java/com/sxkj/util/EventConfig.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/controller/SysUserController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/datasource/config/DynamicContextHolder.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/exception/RRException.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/rocketmq-producer/src/main/java/com/sxkj/controller/msg.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/service/impl/ShiroServiceImpl.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/renren-fast-vue/src/router/index.js" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/datasource/config/DynamicContextHolder.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/aspect/RedisAspect.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/seate-account/pom.xml" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/exception/RRException.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/common/annotation/SysLog.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/user-client/src/test/java/No2_Stack_BasicCalculator.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/datasource/annotation/DataSource.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="jar://$PROJECT_DIR$/../../maven/org/springframework/spring-web/5.1.8.RELEASE/spring-web-5.1.8.RELEASE.jar!/org/springframework/web/multipart/MultipartFile.class" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/renren-fast/src/main/java/io/renren/modules/sys/controller/SysUserController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/user-client/pom.xml" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -753,8 +123,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.obroom.plugin.mybatislog.indexNum" value="53" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/renren-fast-vue/src/views/modules/sys" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/user-client/src/test/java" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -764,8 +135,8 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="project.structure.side.proportion" value="0.39655173" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="ReactorSettings">
@@ -776,16 +147,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\java\SpringCloudAlibaba\renren-fast-vue\src\views\modules\sys" />
-      <recent name="D:\java\SpringCloudAlibaba" />
-      <recent name="D:\java\SpringCloudAlibaba\dubbo-provider\src\main\java\com\sxkj" />
-      <recent name="D:\java\SpringCloudAlibaba\dubbo-provider\src\main\resources\mapper" />
-      <recent name="D:\java\SpringCloudAlibaba\dubbo-privider\src\main\resources" />
+      <recent name="D:\java\SpringCloudAlibaba\user-client\src\test\java" />
+      <recent name="D:\java\SpringCloudAlibaba\renren-fast-vue\src\views\demo" />
+      <recent name="D:\java\SpringCloudAlibaba\renren-fastTest\src\main\java\com\editor\util" />
+      <recent name="D:\java\SpringCloudAlibaba\renren-fastTest" />
+      <recent name="D:\java\SpringCloudAlibaba\renren-fastTest\src\main\resources\static" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sxkj.eventBus" />
+      <recent name="com.editor.util" />
+      <recent name="io.renren.util" />
       <recent name="com.sxkj.domain" />
       <recent name="com.sxkj.service" />
-      <recent name="com.sxkj" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -795,51 +168,38 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.speed">
-    <configuration name="insertion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="insertion" />
+  <component name="RunManager" selected="Application.fileTest">
+    <configuration name="ClassCompareUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassCompareUtil" />
       <module name="user-client" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="insertion1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="insertion1" />
+    <configuration name="GeneratorUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GeneratorUtil" />
       <module name="user-client" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="select" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="select" />
+    <configuration name="JsonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JsonTest" />
       <module name="user-client" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="speed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="speed" />
+    <configuration name="fileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fileTest" />
       <module name="user-client" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test2" />
-      <module name="user-client" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+    <configuration name="RenrenApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="renren-fast (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.renren.RenrenApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -851,13 +211,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="user-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sxkj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sxkj.UserClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.speed" />
-        <item itemvalue="Application.select" />
-        <item itemvalue="Application.insertion1" />
-        <item itemvalue="Application.insertion" />
-        <item itemvalue="Application.test2" />
+        <item itemvalue="Application.fileTest" />
+        <item itemvalue="Application.ClassCompareUtil" />
+        <item itemvalue="Application.JsonTest" />
+        <item itemvalue="Spring Boot.UserClientApplication" />
+        <item itemvalue="Application.GeneratorUtil" />
       </list>
     </recent_temporary>
   </component>
@@ -931,7 +304,64 @@
       <workItem from="1620262656234" duration="4320000" />
       <workItem from="1620458609355" duration="3891000" />
       <workItem from="1620607146490" duration="14269000" />
-      <workItem from="1620695267344" duration="4503000" />
+      <workItem from="1620695267344" duration="8546000" />
+      <workItem from="1620793359306" duration="28248000" />
+      <workItem from="1620961373421" duration="380000" />
+      <workItem from="1620972202689" duration="4258000" />
+      <workItem from="1621323517082" duration="1474000" />
+      <workItem from="1621325491954" duration="4000" />
+      <workItem from="1621388295211" duration="10000" />
+      <workItem from="1621393944713" duration="248000" />
+      <workItem from="1621474381204" duration="1426000" />
+      <workItem from="1622077467861" duration="11559000" />
+      <workItem from="1622170395532" duration="1763000" />
+      <workItem from="1622188643627" duration="2885000" />
+      <workItem from="1622518530031" duration="145000" />
+      <workItem from="1622534138942" duration="2539000" />
+      <workItem from="1622537648743" duration="443000" />
+      <workItem from="1622683797929" duration="2331000" />
+      <workItem from="1622796939285" duration="721000" />
+      <workItem from="1623378053720" duration="22000" />
+      <workItem from="1623897237946" duration="168000" />
+      <workItem from="1623902794080" duration="40000" />
+      <workItem from="1624083552347" duration="54000" />
+      <workItem from="1624092053059" duration="48000" />
+      <workItem from="1624328556935" duration="3464000" />
+      <workItem from="1624517924907" duration="72000" />
+      <workItem from="1624527061036" duration="606000" />
+      <workItem from="1624527680280" duration="18000" />
+      <workItem from="1624528179805" duration="612000" />
+      <workItem from="1624603245181" duration="444000" />
+      <workItem from="1624607179330" duration="653000" />
+      <workItem from="1624610798889" duration="737000" />
+      <workItem from="1624950177456" duration="659000" />
+      <workItem from="1625103998548" duration="253000" />
+      <workItem from="1625122497652" duration="157000" />
+      <workItem from="1625733907507" duration="13000" />
+      <workItem from="1625811458731" duration="798000" />
+      <workItem from="1626311629405" duration="4000" />
+      <workItem from="1626488165304" duration="598000" />
+      <workItem from="1626661884575" duration="217000" />
+      <workItem from="1627456693644" duration="119000" />
+      <workItem from="1627638499851" duration="123000" />
+      <workItem from="1628770483738" duration="40000" />
+      <workItem from="1629722531890" duration="60000" />
+      <workItem from="1630548321486" duration="154000" />
+      <workItem from="1631686010363" duration="247000" />
+      <workItem from="1631686299324" duration="103000" />
+      <workItem from="1631686972500" duration="37000" />
+      <workItem from="1633936019103" duration="79000" />
+      <workItem from="1633940143471" duration="482000" />
+      <workItem from="1633940785731" duration="330000" />
+      <workItem from="1634715511826" duration="478000" />
+      <workItem from="1634783104780" duration="8338000" />
+      <workItem from="1634808551479" duration="2425000" />
+      <workItem from="1634870611860" duration="13228000" />
+      <workItem from="1635126768912" duration="1301000" />
+      <workItem from="1635149412765" duration="5453000" />
+      <workItem from="1635471437883" duration="2653000" />
+      <workItem from="1635847966839" duration="2035000" />
+      <workItem from="1635942539636" duration="15227000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1617949916248</created>
@@ -940,7 +370,21 @@
       <option name="project" value="LOCAL" />
       <updated>1617949916248</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="排序">
+      <created>1620704642471</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1620704642471</updated>
+    </task>
+    <task id="LOCAL-00003" summary="排序">
+      <created>1620704659531</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620704659531</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -960,7 +404,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="123" />
-    <option name="LAST_COMMIT_MESSAGE" value="123" />
+    <MESSAGE value="排序" />
+    <option name="LAST_COMMIT_MESSAGE" value="排序" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -969,6 +414,21 @@
           <url>file://$PROJECT_DIR$/seate-storage/src/main/java/com/sxkj/controller/StorageController.java</url>
           <line>21</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/renren-fastTest/src/main/java/com/editor/netty/SmartIotDecoder.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/rocketmq-comsumer/src/main/java/com/sxkj/ConsumerApplication.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/user-client/src/main/java/com/sxkj/eventBus/LoginListener.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="io.seata.common.exception.FrameworkException" package="io.seata.common.exception" />
@@ -993,6 +453,22 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/renren-fastTest/src/main/java/com/editor/file/controller/FileController.java</url>
+          <line>75</line>
+          <properties class="com.editor.file.controller.FileController" method="modelUpload">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/renren-fastTest/src/main/java/com/editor/file/utils/ImportExcelUtil.java</url>
+          <line>26</line>
+          <properties class="com.editor.file.utils.ImportExcelUtil" method="getBankListByExcel">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
